@@ -11,7 +11,7 @@ use yii\web\AssetBundle;
 
 class HashAsset extends AssetBundle {
 
-    public $sourcePath = '@bower/bower-jquery-hash';
+    public $sourcePath = '@bower/jquery-hash';
     public $js = ['jquery.hash.js'];
     public $depends = ['yii\web\JqueryAsset'];
 

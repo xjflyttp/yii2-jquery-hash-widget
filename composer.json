@@ -10,7 +10,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/bower-jquery-hash": "*"
+        "bower-asset/jquery-hash": "*"
     },
     "autoload": {
         "psr-4": {
